@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "997149559636",
+    "project_id": "scanandorder-b625d",
+    "storage_bucket": "scanandorder-b625d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997149559636:android:a4e9a66d26f2bd581696c1",
+        "android_client_info": {
+          "package_name": "com.example.scan_and_order"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997149559636-mqcv2tm4b5704365ppp42d0ie0uqmfol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB176-Mvv163zYkGzNnNa54_7TR3K-3NkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997149559636-mqcv2tm4b5704365ppp42d0ie0uqmfol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
